@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on ...  
   - A Harvard Reference Generator  
   - My Impossible List
+  - A text-based game for uni
 - 🌱 I’m currently learning ...  
    - Main Courses:  
         - C#  
