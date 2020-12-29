@@ -4,7 +4,7 @@
 **cBridges851/cBridges851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on ...  
-  - A Harvard Reference Generator  
+  - A Calculator Made with Tkinter  
   - My Impossible List
   - A text-based game for uni
 - 🌱 I’m currently learning ...  
