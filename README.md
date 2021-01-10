@@ -32,3 +32,9 @@ She/Her
   - I love listening to the Hamilton soundtrack. For fun.
   - I love watching Doctor Who. For fun.
   - When I'm not coding, I like to make origami models, play Animal Crossing or Zelda, or watching YouTube. All for fun.
+  
+- 📈 Statistics:...  
+  - General Statistics:  
+  ![Christa's github stats](https://github-readme-stats.vercel.app/api?username=cBridges851&show_icons=true&theme=midnight-purple)
+  - Top Languages:  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cBridges851)](https://github.com/anuraghazra/github-readme-stats)
