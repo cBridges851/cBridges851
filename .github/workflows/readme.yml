@@ -38,3 +38,5 @@ jobs:
       # README stats
       - name: Profile Readme Stats
         uses: teoxoy/profile-readme-stats@v1
+        with:
+          token: ${{ secrets.USER_TOKEN }}
