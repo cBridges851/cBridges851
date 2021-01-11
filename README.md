@@ -38,3 +38,5 @@ She/Her
   ![Christa's github stats](https://github-readme-stats.vercel.app/api?username=cBridges851&show_icons=true&theme=midnight-purple)
   - Top Languages:  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cBridges851)](https://github.com/anuraghazra/github-readme-stats)
+  - Profile Views:  
+  ![Profile views](https://gpvc.arturio.dev/cBridges851)  
