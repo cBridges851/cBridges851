@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on ...  
   - A Code Style Checker
+  - To-Do List in AngularJS
   - My Impossible List
   - Morse Code Translator, Hangman and Text-Based Game for uni
 - 🌱 I’m currently learning ...  
