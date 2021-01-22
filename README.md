@@ -32,7 +32,7 @@ She/Her
   - I'm currently learning German. For fun.
   - I love listening to the Hamilton soundtrack. For fun.
   - I love watching Doctor Who. For fun.
-  - When I'm not coding, I like to make origami models, play Animal Crossing or Zelda, or watching YouTube. All for fun.
+  - When I'm not coding, I like to make origami models, play Animal Crossing or Zelda, or watch YouTube. All for fun.
   
 - 📈 Statistics:...  
   - General Statistics:  
