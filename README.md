@@ -4,10 +4,8 @@
 **cBridges851/cBridges851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on ...  
-  - A Code Style Checker
   - To-Do List in AngularJS
   - My Impossible List
-  - Morse Code Translator, Hangman and Text-Based Game for uni
 - 🌱 I’m currently learning ...  
    - Main Courses:  
         - C#  
