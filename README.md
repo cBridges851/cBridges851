@@ -13,6 +13,7 @@
         - Python
    - Side Dishes:  
         - A-Frame
+        - F#
 
 - 👯 I’m looking to collaborate on ...  
 Well, if truth be told, I'm not looking for any collaboration opportunities at the moment because I've got quite a bit on my plate! Feel free to share any repositories or any ideas though!
