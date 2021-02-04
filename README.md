@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on ...  
   - To-Do List in AngularJS
   - My Impossible List
+  - Weather application for uni
 - 🌱 I’m currently learning ...  
    - Main Courses:  
         - C#  
