@@ -41,3 +41,9 @@ She/Her
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cBridges851)](https://github.com/anuraghazra/github-readme-stats)
   - Profile Views:  
   ![Profile views](https://gpvc.arturio.dev/cBridges851)  
+
+- GitHub Trophies 🏆
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=cBridges851&theme=darkhub&no-frame=true&margin-w=30" />
+</div>
+
