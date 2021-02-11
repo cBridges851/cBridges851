@@ -1,7 +1,4 @@
-<div>
-  ### Hello, my name is Christa! | Hallo, ich heiße Christa! 👋
-  ![Profile views](https://gpvc.arturio.dev/cBridges851)
-</div>
+### Hello, my name is Christa! | Hallo, ich heiße Christa! 👋 ![Profile views](https://gpvc.arturio.dev/cBridges851)  
 <!--
 **cBridges851/cBridges851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
