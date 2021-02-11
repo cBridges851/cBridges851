@@ -39,7 +39,8 @@ She/Her
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=cBridges851&show_icons=true&theme=midnight-purple"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cBridges851"/>
-</div>
+</div>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=midnight-purple"/>
 - GitHub Trophies 🏆
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=cBridges851&theme=darkhub&no-frame=true&margin-w=30" />
