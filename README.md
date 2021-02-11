@@ -1,4 +1,5 @@
 ### Hello, my name is Christa! | Hallo, ich heiße Christa! 👋
+![Profile views](https://gpvc.arturio.dev/cBridges851)  
 
 <!--
 **cBridges851/cBridges851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -35,13 +36,10 @@ She/Her
   - When I'm not coding, I like to make origami models, play Animal Crossing or Zelda, or watch YouTube. All for fun.
   
 - 📈 Statistics:...  
-  - General Statistics:  
-  ![Christa's github stats](https://github-readme-stats.vercel.app/api?username=cBridges851&show_icons=true&theme=midnight-purple)
-  - Top Languages:  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cBridges851)](https://github.com/anuraghazra/github-readme-stats)
-  - Profile Views:  
-  ![Profile views](https://gpvc.arturio.dev/cBridges851)  
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=cBridges851&show_icons=true&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cBridges851"/>
+</div>
 - GitHub Trophies 🏆
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=cBridges851&theme=darkhub&no-frame=true&margin-w=30" />
