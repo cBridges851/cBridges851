@@ -3,15 +3,15 @@
 **cBridges851/cBridges851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on ...
-  - To-Do List in AngularJS
+  - A colour palette on 2 GUI frameworks - Tkinter and Kivy
   - My Impossible List
   - Weather application for uni
 - 🌱 I’m currently learning ...
 
   - Main Courses:
     - C#
-    - HTML/CSS/JavaScript
-    - Python
+    - HTML/CSS/JavaScript, with a dash of libraries such as AngularJS and React
+    - Python, with a dash of libraries such as Tkinter and Kivy
   - Side Dishes:
     - A-Frame
     - F#
@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on ...  
   Well, if truth be told, I'm not looking for any collaboration opportunities at the moment because I've got quite a bit on my plate! Feel free to share any repositories or any ideas though!
 - 🤔 I’m looking for help with ...  
-  App development. That will be my next focus.
+  Mobile app development.
 - 💬 Ask me about ...  
   The languages I mentioned above as well as working in the industry as a degree apprentice!
 - 📫 How to reach me: ...
