@@ -3,7 +3,7 @@
 **cBridges851/cBridges851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on ...
-  - Getting more comfortable with AngularJS
+  - A to do list for university work with AngularJS
   - My Impossible List
 - 🌱 I’m currently learning ...
 
