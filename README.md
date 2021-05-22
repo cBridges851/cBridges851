@@ -44,3 +44,6 @@
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=cBridges851&theme=darkhub&no-frame=true&margin-w=30" />
 </div>
+
+And finally... a random joke! Cos why not 😋   
+![Jokes Card](https://readme-jokes.vercel.app/api)
