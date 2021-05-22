@@ -46,4 +46,4 @@
 </div>
 
 And finally... a random joke! Cos why not 😋   
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
