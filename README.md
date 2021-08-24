@@ -3,7 +3,6 @@
 **cBridges851/cBridges851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on ...
-  - Uni work! Basically some maths-y things. 
   - My Impossible List
 - 🌱 I’m currently learning ...
 
