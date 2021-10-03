@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ...
   - Hacktoberfest!
-   - Unit tests for a React Native app
+    - Unit tests for a React Native app
   - My Impossible List
 - 🌱 I’m currently learning ...
 
