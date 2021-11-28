@@ -3,8 +3,7 @@
 **cBridges851/cBridges851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on ...
-  - Hacktoberfest!
-    - Unit tests for a React Native app
+  - A Christmas VR scene
   - My Impossible List
 - 🌱 I’m currently learning ...
 
@@ -30,7 +29,7 @@
   She/Her
 - ⚡ Fun facts: ...
   - I'm currently learning German. For fun.
-  - I love listening to the Hamilton soundtrack. For fun.
+  - I love listening to the musical soundtracks. For fun.
   - I love watching Doctor Who. For fun.
   - When I'm not coding, I like to make origami models, play Animal Crossing or Zelda, or watch YouTube. All for fun.
 - 📈 Statistics:...
