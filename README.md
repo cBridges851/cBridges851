@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on ...
   - Uni things!
   - My Impossible List
+  - Looking after my Tkinter Image View repo for Hacktoberfest!
 - 🌱 I’m currently learning ...
 
   - Main Courses:
@@ -16,7 +17,7 @@
     - F#
 
 - 👯 I’m looking to collaborate on ...  
-  Well, if truth be told, I'm not looking for any collaboration opportunities at the moment because I've got quite a bit on my plate! Feel free to share any repositories or any ideas though!
+  My Tkinter Image Viewer repo which I've opened as part of Hacktoberfest - take a look at the open issues to see if there's anything you would like to work on!
 - 🤔 I’m looking for help with ...  
   Being an awesome developer!
 - 💬 Ask me about ...  
