@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on ...
   - Uni things!
   - My Impossible List
-  - Looking after my Tkinter Image View repo for Hacktoberfest!
 - 🌱 I’m currently learning ...
 
   - Main Courses:
