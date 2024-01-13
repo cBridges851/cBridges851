@@ -6,15 +6,7 @@
   - Uni things!
   - My Impossible List
 - 🌱 I’m currently learning ...
-
-  - Main Courses:
-    - C#
-    - HTML/CSS/JavaScript, with a dash of libraries such as AngularJS and React
-    - Python, with a dash of libraries such as Tkinter and Kivy
-  - Side Dishes:
-    - A-Frame
-    - F#
-
+    - .NET 
 - 👯 I’m looking to collaborate on ...  
   Nothing right now :)
 - 🤔 I’m looking for help with ...  
@@ -31,7 +23,7 @@
   - I'm currently learning German. For fun.
   - I love listening to the musical soundtracks. For fun.
   - I love watching Doctor Who. For fun.
-  - When I'm not coding, I like to make origami models, play Animal Crossing or Zelda, or watch YouTube. All for fun.
+  - When I'm not coding, I like to make origami models. Or play Animal Crossing, Palia, or Zelda. Or watch YouTube. All for fun.
 - 📈 Statistics:...
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=cBridges851&show_icons=true&theme=midnight-purple"/>
